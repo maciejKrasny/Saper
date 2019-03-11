@@ -1,0 +1,15 @@
+﻿  Draw.cpp
+  Main.cpp
+  zasady.cpp
+Draw.obj : error LNK2001: unresolved external symbol __imp_al_draw_filled_circle
+Draw.obj : error LNK2001: unresolved external symbol __imp_al_get_font_line_height
+Draw.obj : error LNK2001: unresolved external symbol __imp_al_load_ttf_font
+Draw.obj : error LNK2001: unresolved external symbol __imp_al_draw_text
+Draw.obj : error LNK2001: unresolved external symbol __imp_al_draw_filled_triangle
+Draw.obj : error LNK2001: unresolved external symbol __imp_al_draw_line
+Draw.obj : error LNK2001: unresolved external symbol __imp_al_draw_rectangle
+Draw.obj : error LNK2001: unresolved external symbol __imp_al_draw_filled_rectangle
+Main.obj : error LNK2001: unresolved external symbol __imp_al_init_ttf_addon
+Main.obj : error LNK2001: unresolved external symbol __imp_al_init_font_addon
+Main.obj : error LNK2001: unresolved external symbol __imp_al_init_primitives_addon
+D:\Gierka\Saper\x64\Release\Saper.exe : fatal error LNK1120: 11 unresolved externals
